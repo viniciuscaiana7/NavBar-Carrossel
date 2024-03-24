@@ -37,7 +37,7 @@ section.slider{
 }
 
 .nav-manual .manual-btn, .nav-auto div{
-    border: 1px solid #202020;
+    border: 1px solid #B82FEB;
     padding: 8px;
     border-radius: 100%;
     cursor: pointer;
@@ -49,11 +49,11 @@ section.slider{
 }
 
 .nav-manual .manual-btn:hover{
-    background-color: #202020;
+    background-color: #B82FEB;
 }
 
 #radio1:checked ~ .nav-auto .auto-btn1, #radio2:checked ~ .nav-auto .auto-btn2, #radio3:checked ~ .nav-auto .auto-btn3{
-    background-color: #202020;
+    background-color: #B82FEB;
 }
 
 #radio1:checked ~ .primeiro{
